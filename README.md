@@ -3,6 +3,8 @@ A sample iOS application to display the Number of total issues in github repo
 
 [Hosted Link !! Click Here](https://appetize.io/app/3jdtwcgwyj6vvhda7532v4m6mm?device=iphone5s&scale=100&orientation=portrait&osVersion=9.2)
 
+NOTE:The Issues Values Differ Based on the Simulator's Variable Time.
+
 **Sample Api Links**
 
 [Total Issues](https://api.github.com/repos/Shippable/support/issues?state=open&per_page=100)</br>
