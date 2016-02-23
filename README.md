@@ -1,10 +1,7 @@
 # GitHubIssuesApi
 A sample iOS application to display the Number of total issues in github repo
 
-**Hosted Link**
-```
-https://appetize.io/app/3jdtwcgwyj6vvhda7532v4m6mm?device=iphone5s&scale=100&orientation=portrait&osVersion=9.2
-```
+[Hosted Link !! Click Here](https://appetize.io/app/3jdtwcgwyj6vvhda7532v4m6mm?device=iphone5s&scale=100&orientation=portrait&osVersion=9.2)
 
 **Solution Explaination**
 
